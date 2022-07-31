@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\lesson\\Dot.net\\DotNetLab1\\ATMConsole\\ATMConsole.csproj": {}
+  },
+  "projects": {
+    "D:\\lesson\\Dot.net\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\lesson\\Dot.net\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj",
+        "projectName": "ATMClassLibrary",
+        "projectPath": "D:\\lesson\\Dot.net\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\renfr\\.nuget\\packages\\",
+        "outputPath": "D:\\lesson\\Dot.net\\DotNetLab1\\ATMClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\lesson\\Dot.net\\DotNetLab1\\ATMConsole\\ATMConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\lesson\\Dot.net\\DotNetLab1\\ATMConsole\\ATMConsole.csproj",
+        "projectName": "ATMConsole",
+        "projectPath": "D:\\lesson\\Dot.net\\DotNetLab1\\ATMConsole\\ATMConsole.csproj",
+        "packagesPath": "C:\\Users\\renfr\\.nuget\\packages\\",
+        "outputPath": "D:\\lesson\\Dot.net\\DotNetLab1\\ATMConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renfr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\lesson\\Dot.net\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj": {
+                "projectPath": "D:\\lesson\\Dot.net\\DotNetLab1\\ATMClassLibrary1\\ATMClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
